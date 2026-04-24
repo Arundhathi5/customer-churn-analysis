@@ -1,4 +1,3 @@
-# customer-churn-analysis
 # 📉 Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
